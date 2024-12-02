@@ -32,7 +32,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### 데이터베이스
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -41,6 +41,7 @@
 ### 인프라 및 도구
 ![IIS](https://img.shields.io/badge/-IIS-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 
 ## 🌟 자기소개
 저는 .NET 백엔드 개발과 통신사 부가서비스 및 보험 가입 관련 서비스를 설계 및 구축 경험이 있는 개발자 전지훈입니다. 
@@ -56,16 +57,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%A0%84-126268271/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjswlgns03)
 
-
 ## 📊 GitHub 통계
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wjswlgns03&show_icons=true&theme=radical" alt="GitHub 통계" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgns03&layout=compact&theme=radical" alt="주요 언어" />
 </div>
+
 ## 🏆 주요 프로젝트
 
-[![Repo 2](https://github.com/wjswlgns03/portfolio-node-react)
+### 포트폴리오 웹사이트 (Node.js & React)
+[![Portfolio Website](https://img.shields.io/badge/-Portfolio_Website-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/portfolio-node-react)
 
+**설명:** Node.js와 React를 활용한 개인 포트폴리오 웹사이트입니다. 폴더 구조만 미리 만들어두고 자동화 매매 알고리즘 구축 중입니다...
+
+**사용 기술:** Node.js(Express), React, supabase(postgresql)
 
 ## 📫 연락처
 - 이메일: [jjh030726@kakao.com](mailto:jjh030726@kakao.com)
