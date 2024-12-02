@@ -1,5 +1,10 @@
 # 안녕하세요, 저는 성장하고 싶은 개발자 전지훈입니다! 👋
 
+## 🔗 소셜 미디어 & 개발 활동
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@wlgns_wjs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%A0%84-126268271/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjswlgns03)
+
 ## 🏠 정보
 - **이름:** 전지훈
 - **나이:** 2003년생 (22살)
@@ -56,16 +61,6 @@
 
 ## ⌛인생 철학
 내가 작성한 코드가 다른 사람에게 도움이 될 수 있도록 가치있는 개발자가 되자
-
-## 🔗 소셜 미디어 & 개발 활동
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@wlgns_wjs)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%A0%84-126268271/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjswlgns03)
-
-## 📊 GitHub 통계
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgns03&layout=compact&theme=radical" alt="주요 언어" />
-</div>
 
 ## 🏆 개인 프로젝트
 
