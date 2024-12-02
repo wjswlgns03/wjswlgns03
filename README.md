@@ -78,7 +78,7 @@
 
 **설명:** 
 Node.js와 React를 활용한 개인 주식 포트폴리오 확인 및 자동 매매 관련 수익률 집계 웹사이트입니다. 
-자동화 매매 알고리즘 구축 중입니다.
+기본적인 UI/UX 구축 후 자동화 매매 알고리즘 구축 중입니다.
 
 **사용 기술:** Node.js(Express), React, supabase(postgresql)
 
