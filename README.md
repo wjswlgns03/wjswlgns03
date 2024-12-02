@@ -61,12 +61,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjswlgns03&show_icons=true&theme=radical" alt="GitHub 통계" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgns03&layout=compact&theme=radical" alt="주요 언어" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wjswlgns03&theme=radical" alt="GitHub 연속 기록" />
 </div>
 ## 🏆 주요 프로젝트
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=wjswlgns03&repo=repo1&theme=radical)](https://github.com/wjswlgns03/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=wjswlgns03&repo=repo2&theme=radical)](https://github.com/wjswlgns03/portfolio-node-react
-)
+
+[![Repo 2](https://github.com/wjswlgns03/portfolio-node-react)
 
 
 ## 📫 연락처
