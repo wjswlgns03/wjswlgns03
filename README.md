@@ -23,7 +23,7 @@
   - Database ( MSSQL, ORACLE, MYSQL )
 - 회사 내부 서비스 유지보수
   - 원격점검
-  - 보안점검
+  - 보안점검 ( C++ )
   - 보험가입
   - 부가서비스 가입자 및 보험 가입자 관련 통계 ( d3.js )
   - 인프라팀 일정 관리 서비스 ( fullcalendar.js, ExcelJS )
