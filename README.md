@@ -65,10 +65,12 @@
 
 ## 🏆 주요 프로젝트
 
-### 포트폴리오 웹사이트 (Node.js & React)
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio_Website-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/portfolio-node-react)
+### 주식 포트폴리오 웹사이트 (Node.js & React)
+[![Portfolio Website](https://img.shields.io/badge/-Stock_Portfolio_Website-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/my-stock-trading-app)
 
-**설명:** Node.js와 React를 활용한 개인 포트폴리오 웹사이트입니다. 폴더 구조만 미리 만들어두고 자동화 매매 알고리즘 구축 중입니다...
+**설명:** 
+Node.js와 React를 활용한 개인 주식 포트폴리오 확인 및 자동 매매 관련 수익률 집계 웹사이트입니다. 
+폴더 구조만 미리 만들어두고 지금은 자동화 매매 알고리즘 구축 중입니다.
 
 **사용 기술:** Node.js(Express), React, supabase(postgresql)
 
