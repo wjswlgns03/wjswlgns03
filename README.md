@@ -12,7 +12,7 @@
 - 📅 2025-03: 군 입대 준비를 위한 휴직
 
 ## 💼 주요 업무
-- 네트워크/보안 솔루션 개발 및 구축[2]
+- 네트워크/보안 솔루션 개발 및 구축
 - 인프라 설계 및 구축 (cisco, juniper)
 - 스위치 및 방화벽 이중화 세팅
 - 통신사 부가서비스 관련 frontend, backend(.NET, spring), DB(MSSQL) 개발
@@ -51,8 +51,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wjswlgns03&theme=radical)
 
 ## 🏆 주요 프로젝트
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo1&theme=radical)](https://github.com/YourGitHubUsername/repo1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo2&theme=radical)](https://github.com/YourGitHubUsername/repo2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=wjswlgns03&repo=repo1&theme=radical)](https://github.com/wjswlgns03/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=wjswlgns03&repo=repo2&theme=radical)](https://github.com/wjswlgns03/portfolio-node-react
+)
 
 ## 📫 연락처
 - 이메일: jjh030726@kakao.com
