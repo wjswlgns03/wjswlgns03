@@ -44,20 +44,20 @@
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@wlgns_wjs)
 
 ## 📊 GitHub 통계
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wjswlgns03&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgns03&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wjswlgns03&theme=radical)
 
 ## 🏆 주요 프로젝트
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo1&theme=radical)](https://github.com/YourGitHubUsername/repo1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=repo2&theme=radical)](https://github.com/YourGitHubUsername/repo2)
 
 ## 📫 연락처
-- 이메일: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- 이메일: jjh030726@kakao.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%A0%84-126268271/?trk=opento_sprofile_topcard)
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
+⭐️ From [YourGitHubUsername](https://github.com/wjswlgns03)
