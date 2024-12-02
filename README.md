@@ -35,7 +35,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## 🌟 자기소개
-안녕하세요! 저는 다양한 기술 스택을 활용하여 혁신적인 솔루션을 개발하는 것을 즐기는 개발자입니다. 연구소에서의 경험을 바탕으로 실용적이고 효율적인 코드 작성에 주력하고 있습니다. 새로운 기술을 배우고 적용하는 것에 열정적이며, 팀과 협력하여 문제를 해결하는 것을 좋아합니다.
+안녕하세요! 
+저는 .NET 백엔드 개발과 통신사 부가서비스 및 보험 가입 관련 서비스를 설계 및 구축 경험이 있는 개발자 전지훈입니다. 
+연구소에서의 경험을 바탕으로 보안에 문제되지 않는 코드와 효율적으로 동작하는 코드 작성에 주력하고 있습니다. 
+새로운 기술을 배우고 적용하는 것에 열정적이며, 팀과 협력하여 문제를 해결하는 것을 좋아합니다.
 
 ## 🔗 소셜 미디어
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@wlgns_wjs)
