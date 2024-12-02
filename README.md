@@ -31,7 +31,7 @@
 - 3사 통신사 부가서비스 및 풍수해 보험 가입 관련 개발
   - Frontend
   - Backend (.NET, Spring)
-  - Database (MSSQL)
+  - Database (MSSQL, ORACLE, MYSQL)
 - 회사 내부 서비스 유지보수
   - 원격점검
   - 보안점검
