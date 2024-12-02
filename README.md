@@ -1,7 +1,14 @@
 # 안녕하세요, 저는 성장하고 싶은 개발자 전지훈입니다! 👋
 
 ## 🚀 경력
-- 윈즈시스템 (https://www.w-ins.net/, 연구개발팀) - 1년 6개월 
+<img align="right" src="https://img.shields.io/badge/-1년_6개월-blue?style=for-the-badge" />
+
+### 윈즈시스템 (연구개발팀)
+🌐 [회사 홈페이지](https://www.w-ins.net/)
+📅 2024-04 - 입사 (인프라팀)
+📅 2024-11 - 연구개발팀으로 부서 이동
+📅 2025-03 - 군 입대 준비를 위한 휴직
+
 
 ## 💻 기술 스택
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
