@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjswlgns03&layout=compact&theme=radical" alt="주요 언어" />
 </div>
 
-## 🏆 주요 프로젝트
+## 🏆 개인 프로젝트
 
 ### 주식 포트폴리오 웹사이트 (Node.js & React)
 [![Portfolio Website](https://img.shields.io/badge/-Stock_Portfolio_Website-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/my-stock-trading-app)
