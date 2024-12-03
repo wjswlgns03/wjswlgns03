@@ -82,6 +82,16 @@ Node.js와 React를 활용한 개인 주식 포트폴리오 확인 및 자동 �
 
 **사용 기술:** Node.js( Express ), React, supabase( postgresql )
 
+### 이미지 분류 프로젝트 ( 
+[![Portfolio Website](https://img.shields.io/badge/-Image_Classification-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/Image_Classification_tensorflow)
+
+**설명:** 
+텐서플로우를 이용하여 이미지 분류를 하는 모델 구축한 프로젝트입니다.
+텐서플로우 공부용으로 만든 프로젝트입니다.
+
+**사용 기술:** TensorFlow, Keras
+
+
 ## 📫 연락처
 - 이메일: [jjh030726@kakao.com](mailto:jjh030726@kakao.com)
 - LinkedIn: [전지훈의 LinkedIn 프로필](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EC%A0%84-126268271/)
