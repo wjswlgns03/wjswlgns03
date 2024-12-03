@@ -82,7 +82,7 @@ Node.js와 React를 활용한 개인 주식 포트폴리오 확인 및 자동 �
 
 **사용 기술:** Node.js( Express ), React, supabase( postgresql )
 
-### 이미지 분류 프로젝트 ( TensorFlow, Keras )
+### 이미지 분류 프로젝트 ( TensorFlow & Keras )
 [![Portfolio Website](https://img.shields.io/badge/-Image_Classification-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/Image_Classification_tensorflow)
 
 **설명:** 
