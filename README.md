@@ -3,7 +3,7 @@
 ## 🚀 경력
 <img align="right" src="https://img.shields.io/badge/-1년_6개월-blue?style=for-the-badge" />
 
-### 🌐[윈즈시스템](https://www.w-ins.net/) (2023-04 ~ 2025-02)
+### 🌐[윈즈시스템](https://www.w-ins.net/) ( 2023-04 ~ 2025-02 )
 
 **주요 경력:**
 - 📅 2023-04: 인프라팀으로 입사
