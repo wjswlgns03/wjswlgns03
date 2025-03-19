@@ -72,25 +72,6 @@
   - (2022-02)서울아이티고등학교 네트워크 보안 솔루션과 졸업 
   - (2025-02)한국공학대학교 AI 소프트웨어학과 조기졸업 예정
 
-## 🏆 개인 프로젝트
-
-### 주식 포트폴리오 웹사이트 ( Node.js & React )
-[![Portfolio Website](https://img.shields.io/badge/-Stock_Portfolio_Website-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/my-stock-trading-app)
-
-**설명:** 
-Node.js와 React를 활용한 개인 주식 포트폴리오 확인 및 자동 매매 관련 수익률 집계 웹사이트입니다. 
-기본적인 UI/UX 구축 후 자동화 매매 알고리즘 구축 중입니다.
-
-**사용 기술:** Node.js( Express ), React, supabase( postgresql )
-
-### 이미지 분류 프로젝트 ( TensorFlow & Keras )
-[![Portfolio Website](https://img.shields.io/badge/-Image_Classification-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wjswlgns03/Image_Classification_tensorflow)
-
-**설명:** 
-텐서플로우를 이용하여 이미지 분류를 하는 모델 구축한 프로젝트입니다.
-텐서플로우 공부용으로 만든 프로젝트입니다.
-
-**사용 기술:** TensorFlow, Keras
 
 
 ## 📫 연락처
